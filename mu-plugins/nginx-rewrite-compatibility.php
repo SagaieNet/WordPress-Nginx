@@ -2,9 +2,10 @@
 
 /*
 Plugin Name: Nginx Rewrite Compatibility
-Plugin URI: https://raw.github.com/pothi/WordPress-Nginx/master/mu-plugins/nginx-rewrite-compatibility.php
-Version: 1.0
-Author: <a href="https://www.tinywp.in/">Pothi Kalimuthu</a>
+Plugin URI: https://github.com/pothi/WordPress-Nginx/blob/master/mu-plugins/nginx-rewrite-compatibility.php
+Version:	1.0
+Author:		Pothi Kalimuthu
+Author URI:	https://www.tinywp.in
 Description: To let WordPress know that the Nginx server supports mod_rewrite
 */
 
